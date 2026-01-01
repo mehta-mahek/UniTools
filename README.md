@@ -1,38 +1,38 @@
-# 🛠️ UniTools
+# UniTools
 
 **UniTools** is a unified platform offering a suite of essential online tools for developers, students, and professionals. From code formatting to QR generation, UniTools consolidates multiple productivity utilities into one seamless interface.
 
 ▶️ **[Watch Demo](https://youtu.be/2dj5alDL5NQ)**
 ---
 
-## 🚀 Features
+##Features
 
-- **🔤 Text Formatter**
+- **Text Formatter**
   - Format and validate JSON, YAML, XML, and Markdown.
 
-- **🎲 Random Generator**
+- **Random Generator**
   - Generate random numbers, strings, IDs with custom options.
 
-- **🎨 Code Formatter**
+- **Code Formatter**
   - Beautify and validate HTML, CSS, JavaScript, and Python code.
 
-- **📊 CSV & Excel Utilities**
+- **CSV & Excel Utilities**
   - Convert CSV ↔ JSON ↔ Excel, with live preview and editing.
 
-- **🔐 Password Generator**
+- **Password Generator**
   - Create secure passwords with strength and entropy check.
 
-- **🔗 QR Code Generator**
+- **QR Code Generator**
   - Generate custom QR codes for URLs, contact info, and text.
 
-### ⚡ Premium Tools
-- **🧠 SQL Formatter**
-- **🕒 Cron Builder**
-- **🔑 Token Generator (JWT/API keys)**
+### Premium Tools
+- **SQL Formatter**
+- **Cron Builder**
+- **Token Generator (JWT/API keys)**
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 | Layer        | Technology        |
 |--------------|------------------|
