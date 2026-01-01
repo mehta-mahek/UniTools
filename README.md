@@ -51,14 +51,14 @@ To run the UniTools platform locally, follow these steps:
 git clone https://github.com/your-username/unitools.git
 cd unitools
 ```
-###2. Start the Frontend (Next.js)
+### 2. Start the Frontend (Next.js)
 ```bash
 cd app  # navigate to the frontend folder
 npm install
 npm run dev
 ```
 By default, the frontend will be available at: http://localhost:3000
-###3. Start the Backend API (FastAPI)
+### 3. Start the Backend API (FastAPI)
 Open a new terminal window:
 ```bash
 cd api  # Navigate to the backend folder
